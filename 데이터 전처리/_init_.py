@@ -12,6 +12,7 @@ from sklearn.ensemble import GradientBoostingRegressor
 import matplotlib as mpl
 import seaborn as sns
 import sklearn as skl
+from sklearn.preprocessing import LabelEncoder
 
 if __name__ == "__main__":
     # 설치된 라이브러리 버전 확인
